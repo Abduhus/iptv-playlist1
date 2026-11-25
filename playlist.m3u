@@ -59,6 +59,8 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae@SD" group-title="Middle East",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="NTVUAEHD.ae@SD" group-title="Middle East",NTV UAE HD (720p)
+https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 #EXTINF:-1 tvg-id="OSNMoviesAction.ae@SD" group-title="Middle East",OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD" group-title="Middle East",Peace TV Bangla (1080p)
@@ -100,6 +102,8 @@ https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8
 #EXTINF:-1 tvg-id="WatarRadio.ae@SD" group-title="Middle East",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:-1 tvg-id="316Channel.sa@SD" group-title="Middle East",3.16 Channel (1080p)
+https://316hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa@SD" group-title="Middle East",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Aflam.sa@SD" group-title="Middle East",Aflam (1080p)
@@ -1137,6 +1141,8 @@ http://185.234.111.229:8000/play/a05u
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr@SD" group-title="Turkey",Beyaz TV (720p) [Not 24/7]
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="BiKanal.tr@SD" group-title="Turkey",Bi Kanal (1080p)
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr@SD" group-title="Turkey",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Turkey",Bloomberg HT (720p)
@@ -1333,14 +1339,6 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 #EXTINF:-1 tvg-id="MTurkTV.tr@SD" group-title="Turkey",MTürk TV (1080p)
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" group-title="Turkey",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" group-title="Turkey",National Geographic (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" group-title="Turkey",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" group-title="Turkey",National Geographic Wild (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr@SD" group-title="Turkey",Natural TV (720p) [Not 24/7]
@@ -1367,6 +1365,8 @@ https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-id="On4TV.tr@SD" group-title="Turkey",On4 TV (1080p)
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="PatiTV.tr@SD" group-title="Turkey",Pati TV (1080p)
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" group-title="Turkey",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr@SD" group-title="Turkey",Power Love (1080p)
@@ -1479,6 +1479,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="Turkey",TRT Spor Yildiz (1440p) [Geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="Turkey",TRT Turk (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/trt_turk/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD" group-title="Turkey",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Turkey",TRT World (720p)
@@ -5067,6 +5069,8 @@ https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
 #EXTINF:-1 tvg-id="BVN.nl@SD" group-title="Europe",BVN (576p)
 http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd
+#EXTINF:-1 tvg-id="BVN.nl@SD" group-title="Europe",BVN (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bvn/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BVN.nl@SD" group-title="Europe",BVN (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
@@ -6118,6 +6122,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro@SD" group-title="Europe",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BeautyON.ro@SD" group-title="Europe",Beauty ON (576i)
+http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
 #EXTINF:-1 tvg-id="BihorTV.ro@SD" group-title="Europe",Bihor TV (576p)
 https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro@Romania" group-title="Europe",Bollywood Classic Romania (576p)
@@ -6159,6 +6165,12 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro@SD" group-title="Europe",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2.ro@SD" group-title="Europe",Digi Sport 2 (576i)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk2%2Fusergendx0ul1ltsDx9lgcdwqrnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport3.ro@SD" group-title="Europe",Digi Sport 3 (576i)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk3%2Fusergendxt1v7slq2rnd-got.htm
+#EXTINF:-1 tvg-id="DigiSport4.ro@SD" group-title="Europe",Digi Sport 4 (576i)
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fkuk4%2Fusergendk9g3ks42t3n-got.htm
 #EXTINF:-1 tvg-id="DiscoMix.ro@SD" group-title="Europe",Disco Mix (576i) [Geo-blocked]
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" group-title="Europe",Discovery Channel
@@ -6185,10 +6197,14 @@ https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="FavoritTV.ro@SD" group-title="Europe",Favorit TV (576p)
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 tvg-id="FavoritTV2.ro@SD" group-title="Europe",Favorit TV2 (1080i)
+http://91.235.165.117:8002/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" group-title="Europe",Formula 1 AntenaPlay (576p) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" group-title="Europe",Formula 2 AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
+#EXTINF:-1 tvg-id="HtMusicChannel.ro@SD" group-title="Europe",H!t Music Channel (576i)
+http://91.235.165.117:8001/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro@HD" group-title="Europe",Happy Channel HD (1080i)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro@SD" group-title="Europe",HD365 TV
@@ -6267,6 +6283,8 @@ https://vidl.youniverse.name:5050/MSTV/hungarian_360p/playlist.m3u8
 https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro@SD" group-title="Europe",Muscel TV (720p)
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicChannel.ro@SD" group-title="Europe",Music Channel SD (576i)
+http://91.235.165.117:8001/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro@SD" group-title="Europe",Nasul TV (720p) [Not 24/7]
 https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="National24Plus.ro@SD" group-title="Europe",National 24 Plus
@@ -6277,16 +6295,18 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro@SD" group-title="Europe",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="NationalTV2.ro@SD" group-title="Europe",National TV2 (1080i)
+http://91.235.165.117:8002/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="NBAAntenaPlay.ro@SD" group-title="Europe",NBA AntenaPlay (576p)
 https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8
 #EXTINF:-1 tvg-id="NCN.ro@SD" group-title="Europe",NCN (576p)
 https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
-#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD" group-title="Europe",NHL AntenaPlay (576i) [Not 24/7]
-https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" group-title="Europe",Nickelodeon
-http://178.76.68.60:7442/64/mpegts
-#EXTINF:-1 tvg-id="Nicktoons.ro@SD" group-title="Europe",Nicktoons
-http://178.76.68.60:7442/80/mpegts
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro@SD" group-title="Europe",NHL AntenaPlay (576p) [Not 24/7]
+https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" group-title="Europe",Nickelodeon (576i)
+http://91.235.165.117:8001/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.ro@SD" group-title="Europe",Nicktoons (576p)
+http://91.235.165.117:8001/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro@HD" group-title="Europe",Nostalgia TV (1080p)
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" group-title="Europe",Nova TV Brasov (576p) [Not 24/7]
@@ -6299,13 +6319,21 @@ https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro@SD" group-title="Europe",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1.ro@SD" group-title="Europe",Prima Sport 1 (576p)
+http://91.235.165.117:8001/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro@HD" group-title="Europe",Prima Sport 1 HD
 #EXTVLCOPT:http-referrer=https://rundle.tv/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+#EXTINF:-1 tvg-id="PrimaSport2.ro@SD" group-title="Europe",Prima Sport 2 (576p)
+http://91.235.165.117:8001/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport2.ro@HD" group-title="Europe",Prima Sport 2 HD
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
+#EXTINF:-1 tvg-id="PrimaSport3.ro@SD" group-title="Europe",Prima Sport 3 (576p)
+http://91.235.165.117:8001/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport3.ro@HD" group-title="Europe",Prima Sport 3 HD
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm
+#EXTINF:-1 tvg-id="PrimaSport4.ro@SD" group-title="Europe",Prima Sport 4 (576p)
+http://91.235.165.117:8001/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro@HD" group-title="Europe",Prima Sport 4 HD
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
 #EXTINF:-1 tvg-id="PrimaSport5.ro@HD" group-title="Europe",Prima Sport 5 HD
@@ -6378,8 +6406,8 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" group-title="Europe",SperantaTV (1080p)
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro@HD" group-title="Europe",Sport Extra HD
-http://92.180.26.103/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="SportExtra.ro@SD" group-title="Europe",Sport Extra (576p)
+http://91.235.165.117:8001/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="SportTotalFM.ro@SD" group-title="Europe",Sport Total FM (576i)
 https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro@SD" group-title="Europe",Super TV (576p)
@@ -6473,8 +6501,12 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="UTV.ro@HD" group-title="Europe",UTV HD (1080i)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ro@SD" group-title="Europe",Viasat Kino (576i)
+http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro@SD" group-title="Europe",Voyo Events (576i) [Not 24/7]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="VoyoSport1.ro@HD" group-title="Europe",Voyo Sport 1 (1080p)
+http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1 tvg-id="VoyoSport1.ro@HD" group-title="Europe",Voyo Sport 1 (1080i)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="ZeceTV.ro@SD" group-title="Europe",Zece TV
@@ -6709,6 +6741,18 @@ https://streaming.28kanala.eus/hls/z.m3u8
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvCadiz.es@SD" group-title="Europe",101tv Cádiz (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es@SD" group-title="Europe",101tv Malaga (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="101tvSevilla.es@SD" group-title="Europe",101tv Sevilla (720p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APunt.es@SD" group-title="Europe",A Punt (720p)
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es@SD" group-title="Europe",Activa TV (720p)
@@ -7019,6 +7063,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es@HD" group-title="Europe",Nickelodeon HD (1080p)
 http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
+#EXTINF:-1 tvg-id="Nortevision.es@SD" group-title="Europe",Nortevision (1080p)
+http://amaru.dyndns.org:8870/1.m3u8
 #EXTINF:-1 tvg-id="Nortevision.es@SD" group-title="Europe",NORTEvisión (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" group-title="Europe",Nova (1080p)
@@ -7192,6 +7238,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es@HD" group-title="Europe",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="TVG2.es@SD" group-title="Europe",TVG2 (720p) [Geo-blocked]
+https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGCativos.es@SD" group-title="Europe",TVG Cativos
 https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGMiraRadioGalega.es@SD" group-title="Europe",TVG Mira Radio Galega
@@ -7200,8 +7248,6 @@ https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/pla
 https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGPequerrechos.es@SD" group-title="Europe",TVG Pequerrechos
 https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVG2.es@SD" group-title="Europe",TVG2 (720p) [Geo-blocked]
-https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMCordoba.es@SD" group-title="Europe",TVM Córdoba (1080p) [Not 24/7]
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOJesus.es@SD" group-title="Europe",TVO Jesus (720p)
